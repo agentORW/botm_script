@@ -1,0 +1,389 @@
+menu_title: BOTM - Page 1
+size: 54
+register_command: true
+open_command:
+- botm
+- botm0
+items:
+  4/25 0:
+    amount: 4
+    priority: 1
+    material: PAPER
+    display_name: '&fApril 2025'
+    slot: 9
+  4/25 1:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0YTU5MmE3OTM5N2E4ZGYzOTk3YzQzMDkxNjk0ZmMyZmI3NmM4ODNhNzZjY2U4OWYwMjI3ZTVjOWYxZGZlIn19fQ
+    display_name: '&e#1 Jelgava Palace'
+    lore:
+    - '&6Jelgava, Latvia'
+    - '&7by @kurkkujouni87'
+    slot: 18
+    left_click_commands:
+    - '[player] tp 4632555 5 -5577205'
+  4/25 2:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllMGExYmM2ZWIwYzZmMjcxZDMyM2ExOGUwMTQwY2U0M2Q5NTQ1OGI2YjViNmU4NDhkZjE3NDI1ZGJhOTZhZCJ9fX0
+    display_name: '&7#2 Sargėnai interchange'
+    lore:
+    - '&2Kaunas, Lithuania'
+    - '&7by @simast12'
+    slot: 27
+    left_click_commands:
+    - '[player] tp 4602653 77 -5364111'
+  4/25 3:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxMWMyOGVlZTVkNThkMWI4NjNiNTRlNWNjNjJjMzA3MjM0ZDQzN2MxN2YxZmY3NjMzOGRmZWNjM2NjNjhkNSJ9fX0
+    display_name: '&6#3 Belvederis manor'
+    lore:
+    - '&2Jurbarkas district, Lithuania'
+    - '&7by @__etro'
+    slot: 36
+    left_click_commands:
+    - '[player] tp 4571469 64 -5387592'
+  3/25 0:
+    amount: 3
+    priority: 1
+    material: PAPER
+    display_name: '&fMarch 2025'
+    slot: 10
+  3/25 1:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0YTU5MmE3OTM5N2E4ZGYzOTk3YzQzMDkxNjk0ZmMyZmI3NmM4ODNhNzZjY2U4OWYwMjI3ZTVjOWYxZGZlIn19fQ
+    display_name: '&e#1 Panemunė Castle'
+    lore:
+    - '&2Jurbarkas District, Lithuania'
+    - '&7by @zinko2066, @__etro, @rantzauu and @miukelis.maukelis'
+    slot: 19
+    left_click_commands:
+    - '[player] tp 4543619 39 -5395329'
+  3/25 2:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllMGExYmM2ZWIwYzZmMjcxZDMyM2ExOGUwMTQwY2U0M2Q5NTQ1OGI2YjViNmU4NDhkZjE3NDI1ZGJhOTZhZCJ9fX0
+    display_name: '&7#2 Toldboden'
+    lore:
+    - '&cAarhus, Denmark'
+    - '&7by @tobiashh_'
+    slot: 28
+    left_click_commands:
+    - '[player] tp 3678499 2 -5739666'
+  3/25 3:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxMWMyOGVlZTVkNThkMWI4NjNiNTRlNWNjNjJjMzA3MjM0ZDQzN2MxN2YxZmY3NjMzOGRmZWNjM2NjNjhkNSJ9fX0
+    display_name: '&6#3 Raudonė Castle'
+    lore:
+    - '&2Jurbarkas district, Lithuania'
+    - '&7by @fhyg and @__etro'
+    slot: 37
+    left_click_commands:
+    - '[player] tp 4553604 50 -5393125'
+  2/25 0:
+    amount: 2
+    priority: 1
+    material: PAPER
+    display_name: '&fFebruary 2025'
+    slot: 11
+  2/25 1:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0YTU5MmE3OTM5N2E4ZGYzOTk3YzQzMDkxNjk0ZmMyZmI3NmM4ODNhNzZjY2U4OWYwMjI3ZTVjOWYxZGZlIn19fQ
+    display_name: '&e#1 Kerimäki Church'
+    lore:
+    - '&3Savonlinna, Finland'
+    - '&7by @kurkkujouni87'
+    slot: 20
+    left_click_commands:
+    - '[player] tp 5123097 93 -6167323'
+  2/25 2:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllMGExYmM2ZWIwYzZmMjcxZDMyM2ExOGUwMTQwY2U0M2Q5NTQ1OGI2YjViNmU4NDhkZjE3NDI1ZGJhOTZhZCJ9fX0
+    display_name: '&7#2 Lighthouse'
+    lore:
+    - '&cAarhus, Denmark'
+    - '&7by @tobiashh_'
+    slot: 29
+    left_click_commands:
+    - '[player] tp 3680018 3 -5740641'
+  2/25 3:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxMWMyOGVlZTVkNThkMWI4NjNiNTRlNWNjNjJjMzA3MjM0ZDQzN2MxN2YxZmY3NjMzOGRmZWNjM2NjNjhkNSJ9fX0
+    display_name: '&6#3 House'
+    lore:
+    - '&3Helsinki, Finland'
+    - '&7by @sipulihirvi'
+    slot: 38
+    left_click_commands:
+    - '[message] This location is not available'
+  1/25 0:
+    amount: 1
+    priority: 1
+    material: PAPER
+    display_name: '&fJanuary 2025'
+    slot: 12
+  1/25 1:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0YTU5MmE3OTM5N2E4ZGYzOTk3YzQzMDkxNjk0ZmMyZmI3NmM4ODNhNzZjY2U4OWYwMjI3ZTVjOWYxZGZlIn19fQ
+    display_name: '&e#1 The center of Allinge'
+    lore:
+    - '&cBornholm, Denmark'
+    - '&7by @zinko2066'
+    slot: 21
+    left_click_commands:
+    - '[player] tp 3972347 12 -5545176'
+  1/25 2:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllMGExYmM2ZWIwYzZmMjcxZDMyM2ExOGUwMTQwY2U0M2Q5NTQ1OGI2YjViNmU4NDhkZjE3NDI1ZGJhOTZhZCJ9fX0
+    display_name: '&7#2 Church of the Holy Trinity'
+    lore:
+    - '&2Panevėžys, Lithuania'
+    - '&7by @KirkkoJouni87'
+    slot: 30
+    left_click_commands:
+    - '[player] tp 4653505 63 -5454239'
+  1/25 3:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxMWMyOGVlZTVkNThkMWI4NjNiNTRlNWNjNjJjMzA3MjM0ZDQzN2MxN2YxZmY3NjMzOGRmZWNjM2NjNjhkNSJ9fX0
+    display_name: '&6#3 Pispala Shot Tower'
+    lore:
+    - '&3Tammerfors, Finland'
+    - '&7by @Kardaani'
+    slot: 39
+    left_click_commands:
+    - '[player] tp 4770848 120 -6195996'
+  12/24 0:
+    amount: 12
+    priority: 1
+    material: PAPER
+    display_name: '&fDecember 2024'
+    slot: 13
+  12/24 1:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0YTU5MmE3OTM5N2E4ZGYzOTk3YzQzMDkxNjk0ZmMyZmI3NmM4ODNhNzZjY2U4OWYwMjI3ZTVjOWYxZGZlIn19fQ
+    display_name: '&e#1 Korso Health Centre'
+    lore:
+    - '&3Vantaa, Finland'
+    - '&7by @KirkkoJouni87'
+    slot: 22
+    left_click_commands:
+    - '[player] tp 4819975 38 -6025065'
+  12/24 2:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllMGExYmM2ZWIwYzZmMjcxZDMyM2ExOGUwMTQwY2U0M2Q5NTQ1OGI2YjViNmU4NDhkZjE3NDI1ZGJhOTZhZCJ9fX0
+    display_name: '&7#2 The Little Mermaid'
+    lore:
+    - '&cCopenhagen, Denmark'
+    - '&7by @tsunami'
+    slot: 31
+    left_click_commands:
+    - '[player] tp 3830295 2 -5636794'
+  12/24 3:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxMWMyOGVlZTVkNThkMWI4NjNiNTRlNWNjNjJjMzA3MjM0ZDQzN2MxN2YxZmY3NjMzOGRmZWNjM2NjNjhkNSJ9fX0
+    display_name: '&6#3 A block'
+    lore:
+    - '&2Kaunas oldtown, Lithuania'
+    - '&7by @Simast12'
+    slot: 40
+    left_click_commands:
+    - '[message] This location is not available'
+  11/24 0:
+    amount: 11
+    priority: 1
+    material: PAPER
+    display_name: '&fNovember 2024'
+    slot: 14
+  11/24 1:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0YTU5MmE3OTM5N2E4ZGYzOTk3YzQzMDkxNjk0ZmMyZmI3NmM4ODNhNzZjY2U4OWYwMjI3ZTVjOWYxZGZlIn19fQ
+    display_name: '&e#1 Flamingo Entertainment Center'
+    lore:
+    - '&3Vantaa, Finland'
+    - '&7by @TheLoop'
+    slot: 23
+    left_click_commands:
+    - '[player] tp 4811281 23 -6019277'
+  11/24 2:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllMGExYmM2ZWIwYzZmMjcxZDMyM2ExOGUwMTQwY2U0M2Q5NTQ1OGI2YjViNmU4NDhkZjE3NDI1ZGJhOTZhZCJ9fX0
+    display_name: '&7#2 Block of houses'
+    lore:
+    - '&2Kaunas, Lithuania'
+    - '&7by @zinko2066'
+    slot: 32
+    left_click_commands:
+    - '[message] This location is not available'
+  11/24 3:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxMWMyOGVlZTVkNThkMWI4NjNiNTRlNWNjNjJjMzA3MjM0ZDQzN2MxN2YxZmY3NjMzOGRmZWNjM2NjNjhkNSJ9fX0
+    display_name: '&6#3 Seppo''s Shop'
+    lore:
+    - '&3Säkylä, Finland'
+    - '&7by @KirkkoJouni87'
+    slot: 41
+    left_click_commands:
+    - '[player] tp 4673069 48 -6166619'
+  10/24 0:
+    amount: 10
+    priority: 1
+    material: PAPER
+    display_name: '&fOctober 2024'
+    slot: 15
+  10/24 1:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0YTU5MmE3OTM5N2E4ZGYzOTk3YzQzMDkxNjk0ZmMyZmI3NmM4ODNhNzZjY2U4OWYwMjI3ZTVjOWYxZGZlIn19fQ
+    display_name: '&e#1 Volunteers interchange'
+    lore:
+    - '&2Vilnius, Lithuania'
+    - '&7by @Simast12'
+    slot: 24
+    left_click_commands:
+    - '[player] tp 4691907 121 -5314230'
+  10/24 2:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllMGExYmM2ZWIwYzZmMjcxZDMyM2ExOGUwMTQwY2U0M2Q5NTQ1OGI2YjViNmU4NDhkZjE3NDI1ZGJhOTZhZCJ9fX0
+    display_name: '&7#2 Church of the Holy Cross'
+    lore:
+    - '&3Rauma, Finland'
+    - '&7by @KirkkoJouni87'
+    slot: 33
+    left_click_commands:
+    - '[player] tp 4618644 6 -6184095'
+  10/24 3:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxMWMyOGVlZTVkNThkMWI4NjNiNTRlNWNjNjJjMzA3MjM0ZDQzN2MxN2YxZmY3NjMzOGRmZWNjM2NjNjhkNSJ9fX0
+    display_name: '&6#3 Al Mare Ärimaja'
+    lore:
+    - '&1Tallinn, Estonia'
+    - '&7by @_aaaaaaa_'
+    slot: 42
+    left_click_commands:
+    - '[player] tp 4766336 6 -5913170'
+  9/24 0:
+    amount: 9
+    priority: 1
+    material: PAPER
+    display_name: '&fSeptember 2024'
+    slot: 16
+  9/24 1:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0YTU5MmE3OTM5N2E4ZGYzOTk3YzQzMDkxNjk0ZmMyZmI3NmM4ODNhNzZjY2U4OWYwMjI3ZTVjOWYxZGZlIn19fQ
+    display_name: '&e#1 Pažaislis Monastery'
+    lore:
+    - '&2Kaunas, Lithuania'
+    - '&7by @zinko2066'
+    slot: 25
+    left_click_commands:
+    - '[player] tp 4610983 61 -5354548'
+  9/24 2:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllMGExYmM2ZWIwYzZmMjcxZDMyM2ExOGUwMTQwY2U0M2Q5NTQ1OGI2YjViNmU4NDhkZjE3NDI1ZGJhOTZhZCJ9fX0
+    display_name: '&7#2 Design Museum'
+    lore:
+    - '&3Helsinki, Finland'
+    - '&7by @KirkkoJouni87'
+    slot: 34
+    left_click_commands:
+    - '[player] tp 4806070 18 -6003112'
+  9/24 3:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxMWMyOGVlZTVkNThkMWI4NjNiNTRlNWNjNjJjMzA3MjM0ZDQzN2MxN2YxZmY3NjMzOGRmZWNjM2NjNjhkNSJ9fX0
+    display_name: '&6#3 Office tower'
+    lore:
+    - '&cAarhus, Denmark'
+    - '&7by @tsunami'
+    slot: 43
+    left_click_commands:
+    - '[player] tp 3677936 7 -5739058'
+  8/24 0:
+    amount: 8
+    priority: 1
+    material: PAPER
+    display_name: '&fAugust 2024'
+    slot: 17
+  8/24 1:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM0YTU5MmE3OTM5N2E4ZGYzOTk3YzQzMDkxNjk0ZmMyZmI3NmM4ODNhNzZjY2U4OWYwMjI3ZTVjOWYxZGZlIn19fQ
+    display_name: '&e#1 Bank of Finland'
+    lore:
+    - '&3Helsinki, Finland'
+    - '&7by @Treousti'
+    slot: 26
+    left_click_commands:
+    - '[player] tp 4806749 14 -6004054'
+  8/24 2:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTllMGExYmM2ZWIwYzZmMjcxZDMyM2ExOGUwMTQwY2U0M2Q5NTQ1OGI2YjViNmU4NDhkZjE3NDI1ZGJhOTZhZCJ9fX0
+    display_name: '&7#2 Falun torget'
+    lore:
+    - '&eFalun, Sweden'
+    - '&7by @Smit jag vet inte'
+    slot: 35
+    left_click_commands:
+    - '[player] tp 4211735 114 -6223841'
+  8/24 3:
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQxMWMyOGVlZTVkNThkMWI4NjNiNTRlNWNjNjJjMzA3MjM0ZDQzN2MxN2YxZmY3NjMzOGRmZWNjM2NjNjhkNSJ9fX0
+    display_name: '&6#3 Shopping mall ''Molas'''
+    lore:
+    - '&2Kaunas, Lithuania'
+    - '&7by @zinko2066'
+    slot: 44
+    left_click_commands:
+    - '[player] tp 4607713 68 -5358107'
+  nextPage:
+    display_name: Next
+    amount: 1
+    priority: 1
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmNmZTg4NDVhOGQ1ZTYzNWZiODc3MjhjY2M5Mzg5NWQ0MmI0ZmMyZTZhNTNmMWJhNzhjODQ1MjI1ODIyIn19fQ
+    slot: 53
+    left_click_commands:
+    - '[player] botm1'
+  space:
+    amount: 1
+    priority: 2
+    material: GRAY_STAINED_GLASS_PANE
+    slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 45
+    - 46
+    - 47
+    - 48
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
