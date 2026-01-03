@@ -257,7 +257,134 @@ botm:
         location: "Jurbarkas district, Lithuania"
         builder: "@__etro"
         coordinates: "4571469 64 -5387592"
-
+    5:
+      1:
+          name: "St. Simeon and St. Anne's Cathedral"
+          location: "Jelgava, Latvia"
+          builder: "@kurkkujouni87"
+          coordinates: "4632133 5 -5576374"
+      2:
+          name: "Villa Björkstrand"
+          location: "Espoo, Finland"
+          builder: "@kurkkujouni87"
+          coordinates: ""
+      3:
+          name: "Kaunas Castle (and more)"
+          location: "Kaunas, Lithuania"
+          builder: "@simast12"
+          coordinates: "4601965 29 -5359091"
+    6:
+      1:
+          name: "Politigården"
+          location: "Copenhagen, Denmark"
+          builder: "@bohr1um"
+          coordinates: "3827654 5 -5634504"
+      2:
+          name: "Church of the Icon of the Mother of God «Quick to Hearken»"
+          location: "Riga, Latvia"
+          builder: "@kurkkujouni87"
+          coordinates: "4778912 44 -5913682"
+      3:
+          name: " Upper Gediminas castle complex"
+          location: " Vilnius, Lithuania"
+          builder: "@__etro"
+          coordinates: "4696018 142 -5315785"
+    7:
+      1:
+          name: "A1 highway near the largest Kaunas shopping centre 'MEGA'"
+          location: "Kaunas, Lithuania"
+          builder: "@simast12"
+          coordinates: "4603787 75 -5363564"
+      2:
+          name: "Vantaa City Museum"
+          location: "Vantaa, Finland"
+          builder: "@kurkkujouni87"
+          coordinates: "4815989 19 -6018130"
+      3:
+          name: "Little road"
+          location: "Oxie, Sweden"
+          builder: "@willman3370"
+          coordinates: ""
+    8:
+      1:
+          name: "Vilnius TV Tower"
+          location: "Vilnius, Lithuania"
+          builder: "@epicdanny1028"
+          coordinates: "4690669 171 -5316823"
+      2:
+          name: "Sea Chapel"
+          location: "Kirkkonummi, Finland"
+          builder: "@kurkkujouni87"
+          coordinates: "4764788 9 -5994250"
+      3:
+          name: "Chalmers Campus"
+          location: "Johanneberg, Sweden"
+          builder: "@boru3128"
+          coordinates: "3854146 47 -5901978"
+    9:
+      1:
+          name: "Stadions 'Daugava' - Daugava Stadium"
+          location: "Riga, Latvia"
+          builder: "@cryptoball.studios"
+          coordinates: "4668853 14 -5608664"
+      2:
+          name: "Color line cruice ship"
+          location: "Helsinki, Finland"
+          builder: "@teddymeutwo"
+          coordinates: ""
+      3:
+          name: "Progress in Kaunas center"
+          location: "Kaunas, Lithuania"
+          builder: "@simast12"
+          coordinates: "4602628 29 -5359234"
+    10:
+      1:
+          name: "Tyska kyrka"
+          location: "Stockholm, Sweden"
+          builder: "@smitnarval"
+          coordinates: "4328429 9 -6005839"
+      2:
+          name: "A brand new-looking Zalgriris arena"
+          location: "Kaunas, Lithuania"
+          builder: "@simast12"
+          coordinates: "4603900 26 -5357527"
+      3:
+          name: "1/3 km of Raudondvaris road"
+          location: "Kaunas, Lithuania"
+          builder: "@simast12"
+          coordinates: "4598281 28 -5362501"
+    11:
+      1:
+          name: "Jelgava Gymnasium"
+          location: "Jelgava, Latvia"
+          builder: "@kurkkujouni87"
+          coordinates: "4632145 5 -5576518"
+      2:
+          name: "Several homes and a few small commercial buildings"
+          location: "Kaunas, Lithuania"
+          builder: "@simast12"
+          coordinates: ""
+      3:
+          name: "Danish National Route 38 Rønne-Aakirkeby"
+          location: "Rønne/Aakirkeby, Denmark"
+          builder: "@riseofnationsfan2137"
+          coordinates: "3964645 43 -5520622"
+    12:
+      1:
+          name: "Vingis Park Amphitheatre"
+          location: "Vilnius, Lithuania"
+          builder: "@epicdanny1028"
+          coordinates: "4689800 34 -5316143"
+      2:
+          name: "Kumu Art Museum"
+          location: "Tallinn, Estonia"
+          builder: "@treousti"
+          coordinates: "4766201 12 -5913533"
+      3:
+          name: "Tycho Brahe Planetarium"
+          location: "Copenhagen, Denmark"
+          builder: "@bohr1um"
+          coordinates: "3825543 5 -5632973"
 
 countries:
   norway:
