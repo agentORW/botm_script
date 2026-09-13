@@ -53,6 +53,8 @@ def generate_gui(input_yaml_path, output_directory):
         "items": {}
     }
 
+    page_month_limit = 9
+
     # Iterate through `botm` data
     for idYear, (year, months) in enumerate(sorted(botm_data.items(), reverse=True)):
         for idMonth, (month, builds) in enumerate(sorted(months.items(), reverse=True)):
@@ -107,8 +109,8 @@ def generate_gui(input_yaml_path, output_directory):
             # Add one to column_counter
             column_counter += 1
 
-            # Save file when getting to end of menu
-            if (column_counter+1) % 10 == 0:
+            # Save file when reaching the end of a 9-month page.
+            if column_counter % page_month_limit == 0 and column_counter > 0:
                 # Add next arrow
 
                 next_button_command = [

@@ -2,389 +2,389 @@ botm:
   2024:
     1:
       1:
-        name: "Embassy of the Russian Federation"
-        location: "Helsinki, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "4806432 36 -6002600"
+        name: Embassy of the Russian Federation
+        location: Helsinki, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4806432 36 -6002600
       2:
-        name: "Augustenborg Slot"
-        location: "Augustenborg, Denmark"
-        builder: "@HomoHanne (JohannesLu) and @collared37"
-        coordinates: "3612722 13 -5595935"
+        name: Augustenborg Slot
+        location: Augustenborg, Denmark
+        builder: '@HomoHanne (JohannesLu) and @collared37'
+        coordinates: 3612722 13 -5595935
       3:
-        name: "Basilica of the Resurrection of Christ"
-        location: "Kaunas, Lithuania"
-        builder: "@simast12"
-        coordinates: "4604358 76 -5359087"
+        name: Basilica of the Resurrection of Christ
+        location: Kaunas, Lithuania
+        builder: '@simast12'
+        coordinates: 4604358 76 -5359087
     2:
       1:
-        name: "Ateneum"
-        location: "Helsinki, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "4806164 3 -6004081"
+        name: Ateneum
+        location: Helsinki, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4806164 3 -6004081
       2:
-        name: "Käpylä"
-        location: "Finland"
-        builder: "@google drive sucks"
-        coordinates: ""
+        name: Käpylä
+        location: Finland
+        builder: '@google drive sucks'
+        coordinates: ''
       3:
-        name: "Sokos Hotel Vaakuna"
-        location: "Helsinki, Finland"
-        builder: "@TheLoop"
-        coordinates: "4805803 7 -6004110"
+        name: Sokos Hotel Vaakuna
+        location: Helsinki, Finland
+        builder: '@TheLoop'
+        coordinates: 4805803 7 -6004110
     3:
       1:
-        name: "Presidential Palace"
-        location: "Helsinki, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "4806875 3 -6003597"
+        name: Presidential Palace
+        location: Helsinki, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4806875 3 -6003597
       2:
-        name: "Leppäkorpi School"
-        location: "Vantaa, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: ""
+        name: Leppäkorpi School
+        location: Vantaa, Finland
+        builder: '@kurkkujouni87'
+        coordinates: ''
       3:
-        name: "The office of Rovio Entertainment Oyj"
-        location: "Espoo, Finland"
-        builder: "@Tinokas"
-        coordinates: "4799328 6 -6006540"
+        name: The office of Rovio Entertainment Oyj
+        location: Espoo, Finland
+        builder: '@Tinokas'
+        coordinates: 4799328 6 -6006540
     4:
       1:
-        name: "Evijärvi Church"
-        location: "Evijärvi, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "4827145 90 -6446247"
+        name: Evijärvi Church
+        location: Evijärvi, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4827145 90 -6446247
       2:
-        name: "Aasi (Donkey) city block"
-        location: "Helsinki, Finland"
-        builder: "@Tatska_98"
-        coordinates: ""
+        name: Aasi (Donkey) city block
+        location: Helsinki, Finland
+        builder: '@Tatska_98'
+        coordinates: ''
       3:
-        name: "Augustenborg Harbour"
-        location: "Augustenborg, Denmark"
-        builder: "@HomoHanne (JohannesLu)"
-        coordinates: "3613124 2 -5595798"
+        name: Augustenborg Harbour
+        location: Augustenborg, Denmark
+        builder: '@HomoHanne (JohannesLu)'
+        coordinates: 3613124 2 -5595798
     5:
       1:
-        name: "Jumbo Shopping Center"
-        location: "Vantaa, Finland"
-        builder: "@TheLoop"
-        coordinates: "4810968 29 -6019125"
+        name: Jumbo Shopping Center
+        location: Vantaa, Finland
+        builder: '@TheLoop'
+        coordinates: 4810968 29 -6019125
       2:
-        name: "Helios Condominium, Rauhankatu 13"
-        location: "Helsinki, Finland"
-        builder: "@Tatska_98"
-        coordinates: "4806892 8 -6004066"
+        name: Helios Condominium, Rauhankatu 13
+        location: Helsinki, Finland
+        builder: '@Tatska_98'
+        coordinates: 4806892 8 -6004066
       3:
-        name: "Helsingin Musiikkitalo"
-        location: "Helsinki, Finland"
-        builder: "@Hg2"
-        coordinates: "4805618 10 -6004619"
+        name: Helsingin Musiikkitalo
+        location: Helsinki, Finland
+        builder: '@Hg2'
+        coordinates: 4805618 10 -6004619
     6:
       1:
-        name: "Okhrana House"
-        location: "Helsinki, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "4806080 18 -6003075"
+        name: Okhrana House
+        location: Helsinki, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4806080 18 -6003075
       2:
-        name: "Suur Tõll"
-        location: "Estonia"
-        builder: "@treokas"
-        coordinates: ""
+        name: Suur Tõll
+        location: Estonia
+        builder: '@treokas'
+        coordinates: ''
       3:
-        name: "Tuomarilan VPK/Kino"
-        location: "Espoo, Finland"
-        builder: "@tiaw"
-        coordinates: ""
+        name: Tuomarilan VPK/Kino
+        location: Espoo, Finland
+        builder: '@tiaw'
+        coordinates: ''
     7:
       1:
-        name: "Tarmo"
-        location: "Estonia"
-        builder: "@treokas"
-        coordinates: ""
+        name: Tarmo
+        location: Estonia
+        builder: '@treokas'
+        coordinates: ''
       2:
-        name: "Finnair's A320 family"
-        location: "N/A"
-        builder: "@TheLoop"
-        coordinates: ""
+        name: Finnair's A320 family
+        location: N/A
+        builder: '@TheLoop'
+        coordinates: ''
       3:
-        name: "S/S Armas"
-        location: "Finland"
-        builder: "@kurkkujouni87"
-        coordinates: ""
+        name: S/S Armas
+        location: Finland
+        builder: '@kurkkujouni87'
+        coordinates: ''
     8:
       1:
-        name: "Bank of Finland"
-        location: "Helsinki, Finland"
-        builder: "@treokas"
-        coordinates: "4806749 14 -6004054"
+        name: Bank of Finland
+        location: Helsinki, Finland
+        builder: '@treokas'
+        coordinates: 4806749 14 -6004054
       2:
-        name: "Falun torget"
-        location: "Falun, Sweden"
-        builder: "@Smit jag vet inte"
-        coordinates: "4211735 114 -6223841"
+        name: Falun torget
+        location: Falun, Sweden
+        builder: '@Smit jag vet inte'
+        coordinates: 4211735 114 -6223841
       3:
-        name: "Shopping mall 'Molas'"
-        location: "Kaunas, Lithuania"
-        builder: "@zinko2066"
-        coordinates: "4607713 68 -5358107"
+        name: Shopping mall 'Molas'
+        location: Kaunas, Lithuania
+        builder: '@zinko2066'
+        coordinates: 4607713 68 -5358107
     9:
       1:
-        name: "Pažaislis Monastery"
-        location: "Kaunas, Lithuania"
-        builder: "@zinko2066"
-        coordinates: "4610983 61 -5354548"
+        name: Pažaislis Monastery
+        location: Kaunas, Lithuania
+        builder: '@zinko2066'
+        coordinates: 4610983 61 -5354548
       2:
-        name: "Design Museum"
-        location: "Helsinki, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "4806070 18 -6003112"
+        name: Design Museum
+        location: Helsinki, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4806070 18 -6003112
       3:
-        name: "Office tower"
-        location: "Aarhus, Denmark"
-        builder: "@tsunami"
-        coordinates: "3677936 7 -5739058"
+        name: Office tower
+        location: Aarhus, Denmark
+        builder: '@tsunami'
+        coordinates: 3677936 7 -5739058
     10:
       1:
-        name: "Volunteers interchange"
-        location: "Vilnius, Lithuania"
-        builder: "@simast12"
-        coordinates: "4691907 121 -5314230"
+        name: Volunteers interchange
+        location: Vilnius, Lithuania
+        builder: '@simast12'
+        coordinates: 4691907 121 -5314230
       2:
-        name: "Church of the Holy Cross"
-        location: "Rauma, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "4618644 6 -6184095"
+        name: Church of the Holy Cross
+        location: Rauma, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4618644 6 -6184095
       3:
-        name: "Al Mare Ärimaja"
-        location: "Tallinn, Estonia"
-        builder: "@_aaaaaaa_"
-        coordinates: "4766336 6 -5913170"
+        name: Al Mare Ärimaja
+        location: Tallinn, Estonia
+        builder: '@_aaaaaaa_'
+        coordinates: 4766336 6 -5913170
     11:
       1:
-        name: "Flamingo Entertainment Center"
-        location: "Vantaa, Finland"
-        builder: "@TheLoop"
-        coordinates: "4811281 23 -6019277"
+        name: Flamingo Entertainment Center
+        location: Vantaa, Finland
+        builder: '@TheLoop'
+        coordinates: 4811281 23 -6019277
       2:
-        name: "Block of houses"
-        location: "Kaunas, Lithuania"
-        builder: "@zinko2066"
-        coordinates: ""
+        name: Block of houses
+        location: Kaunas, Lithuania
+        builder: '@zinko2066'
+        coordinates: ''
       3:
-        name: "Seppo's Shop"
-        location: "Säkylä, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "4673069 48 -6166619"
+        name: Seppo's Shop
+        location: Säkylä, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4673069 48 -6166619
     12:
       1:
-        name: "Korso Health Centre"
-        location: "Vantaa, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "4819975 38 -6025065"
+        name: Korso Health Centre
+        location: Vantaa, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4819975 38 -6025065
       2:
-        name: "The Little Mermaid"
-        location: "Copenhagen, Denmark"
-        builder: "@tsunami"
-        coordinates: "3830295 2 -5636794"
+        name: The Little Mermaid
+        location: Copenhagen, Denmark
+        builder: '@tsunami'
+        coordinates: 3830295 2 -5636794
       3:
-        name: "A block"
-        location: "Kaunas oldtown, Lithuania"
-        builder: "@simast12"
-        coordinates: ""
+        name: A block
+        location: Kaunas oldtown, Lithuania
+        builder: '@simast12'
+        coordinates: ''
   2025:
     1:
       1:
-        name: "The center of Allinge"
-        location: "Bornholm, Denmark"
-        builder: "@zinko2066"
-        coordinates: "3972347 12 -5545176"
+        name: The center of Allinge
+        location: Bornholm, Denmark
+        builder: '@zinko2066'
+        coordinates: 3972347 12 -5545176
       2:
-        name: "Church of the Holy Trinity"
-        location: "Panevėžys, Lithuania"
-        builder: "@kurkkujouni87"
-        coordinates: "4653505 63 -5454239"
+        name: Church of the Holy Trinity
+        location: Panevėžys, Lithuania
+        builder: '@kurkkujouni87'
+        coordinates: 4653505 63 -5454239
       3:
-        name: "Pispala Shot Tower"
-        location: "Tammerfors, Finland"
-        builder: "@Kardaani"
-        coordinates: "4770848 120 -6195996"
+        name: Pispala Shot Tower
+        location: Tammerfors, Finland
+        builder: '@Kardaani'
+        coordinates: 4770848 120 -6195996
     2:
       1:
-        name: "Kerimäki Church"
-        location: "Savonlinna, Finland"
-        builder: "@kurkkujouni87"
-        coordinates: "5123097 93 -6167323"
+        name: Kerimäki Church
+        location: Savonlinna, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 5123097 93 -6167323
       2:
-        name: "Lighthouse"
-        location: "Aarhus, Denmark"
-        builder: "@tobiashh_"
-        coordinates: "3680018 3 -5740641"
+        name: Lighthouse
+        location: Aarhus, Denmark
+        builder: '@tobiashh_'
+        coordinates: 3680018 3 -5740641
       3:
-        name: "House"
-        location: "Helsinki, Finland"
-        builder: "@sipulihirvi"
-        coordinates: ""
+        name: House
+        location: Helsinki, Finland
+        builder: '@sipulihirvi'
+        coordinates: ''
     3:
       1:
-        name: "Panemunė Castle"
-        location: "Jurbarkas District, Lithuania"
-        builder: "@zinko2066, @__etro, @rantzauu and @miukelis.maukelis"
-        coordinates: "4543619 39 -5395329"
+        name: Panemunė Castle
+        location: Jurbarkas District, Lithuania
+        builder: '@zinko2066, @__etro, @rantzauu and @miukelis.maukelis'
+        coordinates: 4543619 39 -5395329
       2:
-        name: "Toldboden"
-        location: "Aarhus, Denmark"
-        builder: "@tobiashh_"
-        coordinates: "3678499 2 -5739666"
+        name: Toldboden
+        location: Aarhus, Denmark
+        builder: '@tobiashh_'
+        coordinates: 3678499 2 -5739666
       3:
-        name: "Raudonė Castle"
-        location: "Jurbarkas district, Lithuania"
-        builder: "@fhyg and @__etro"
-        coordinates: "4553604 50 -5393125"
+        name: Raudonė Castle
+        location: Jurbarkas district, Lithuania
+        builder: '@fhyg and @__etro'
+        coordinates: 4553604 50 -5393125
     4:
       1:
-        name: "Jelgava Palace"
-        location: "Jelgava, Latvia"
-        builder: "@kurkkujouni87"
-        coordinates: "4632555 5 -5577205"
+        name: Jelgava Palace
+        location: Jelgava, Latvia
+        builder: '@kurkkujouni87'
+        coordinates: 4632555 5 -5577205
       2:
-        name: "Sargėnai interchange"
-        location: "Kaunas, Lithuania"
-        builder: "@simast12"
-        coordinates: "4602653 77 -5364111"
+        name: Sargėnai interchange
+        location: Kaunas, Lithuania
+        builder: '@simast12'
+        coordinates: 4602653 77 -5364111
       3:
-        name: "Belvederis manor"
-        location: "Jurbarkas district, Lithuania"
-        builder: "@__etro"
-        coordinates: "4571469 64 -5387592"
+        name: Belvederis manor
+        location: Jurbarkas district, Lithuania
+        builder: '@__etro'
+        coordinates: 4571469 64 -5387592
     5:
       1:
-          name: "St. Simeon and St. Anne's Cathedral"
-          location: "Jelgava, Latvia"
-          builder: "@kurkkujouni87"
-          coordinates: "4632133 5 -5576374"
+        name: St. Simeon and St. Anne's Cathedral
+        location: Jelgava, Latvia
+        builder: '@kurkkujouni87'
+        coordinates: 4632133 5 -5576374
       2:
-          name: "Villa Björkstrand"
-          location: "Espoo, Finland"
-          builder: "@kurkkujouni87"
-          coordinates: ""
+        name: Villa Björkstrand
+        location: Espoo, Finland
+        builder: '@kurkkujouni87'
+        coordinates: ''
       3:
-          name: "Kaunas Castle (and more)"
-          location: "Kaunas, Lithuania"
-          builder: "@simast12"
-          coordinates: "4601965 29 -5359091"
+        name: Kaunas Castle (and more)
+        location: Kaunas, Lithuania
+        builder: '@simast12'
+        coordinates: 4601965 29 -5359091
     6:
       1:
-          name: "Politigården"
-          location: "Copenhagen, Denmark"
-          builder: "@bohr1um"
-          coordinates: "3827654 5 -5634504"
+        name: Politigården
+        location: Copenhagen, Denmark
+        builder: '@bohr1um'
+        coordinates: 3827654 5 -5634504
       2:
-          name: "Church of the Icon of the Mother of God «Quick to Hearken»"
-          location: "Riga, Latvia"
-          builder: "@kurkkujouni87"
-          coordinates: "4778912 44 -5913682"
+        name: Church of the Icon of the Mother of God «Quick to Hearken»
+        location: Riga, Latvia
+        builder: '@kurkkujouni87'
+        coordinates: 4778912 44 -5913682
       3:
-          name: " Upper Gediminas castle complex"
-          location: " Vilnius, Lithuania"
-          builder: "@__etro"
-          coordinates: "4696018 142 -5315785"
+        name: ' Upper Gediminas castle complex'
+        location: ' Vilnius, Lithuania'
+        builder: '@__etro'
+        coordinates: 4696018 142 -5315785
     7:
       1:
-          name: "A1 highway near the largest Kaunas shopping centre 'MEGA'"
-          location: "Kaunas, Lithuania"
-          builder: "@simast12"
-          coordinates: "4603787 75 -5363564"
+        name: A1 highway near the largest Kaunas shopping centre 'MEGA'
+        location: Kaunas, Lithuania
+        builder: '@simast12'
+        coordinates: 4603787 75 -5363564
       2:
-          name: "Vantaa City Museum"
-          location: "Vantaa, Finland"
-          builder: "@kurkkujouni87"
-          coordinates: "4815989 19 -6018130"
+        name: Vantaa City Museum
+        location: Vantaa, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4815989 19 -6018130
       3:
-          name: "Little road"
-          location: "Oxie, Sweden"
-          builder: "@willman3370"
-          coordinates: ""
+        name: Little road
+        location: Oxie, Sweden
+        builder: '@willman3370'
+        coordinates: ''
     8:
       1:
-          name: "Vilnius TV Tower"
-          location: "Vilnius, Lithuania"
-          builder: "@epicdanny1028"
-          coordinates: "4690669 171 -5316823"
+        name: Vilnius TV Tower
+        location: Vilnius, Lithuania
+        builder: '@epicdanny1028'
+        coordinates: 4690669 171 -5316823
       2:
-          name: "Sea Chapel"
-          location: "Kirkkonummi, Finland"
-          builder: "@kurkkujouni87"
-          coordinates: "4764788 9 -5994250"
+        name: Sea Chapel
+        location: Kirkkonummi, Finland
+        builder: '@kurkkujouni87'
+        coordinates: 4764788 9 -5994250
       3:
-          name: "Chalmers Campus"
-          location: "Johanneberg, Sweden"
-          builder: "@boru3128"
-          coordinates: "3854146 47 -5901978"
+        name: Chalmers Campus
+        location: Johanneberg, Sweden
+        builder: '@boru3128'
+        coordinates: 3854146 47 -5901978
     9:
       1:
-          name: "Stadions 'Daugava' - Daugava Stadium"
-          location: "Riga, Latvia"
-          builder: "@cryptoball.studios"
-          coordinates: "4668853 14 -5608664"
+        name: Stadions 'Daugava' - Daugava Stadium
+        location: Riga, Latvia
+        builder: '@cryptoball.studios'
+        coordinates: 4668853 14 -5608664
       2:
-          name: "Color line cruice ship"
-          location: "Helsinki, Finland"
-          builder: "@teddymeutwo"
-          coordinates: ""
+        name: Color line cruice ship
+        location: Helsinki, Finland
+        builder: '@teddymeutwo'
+        coordinates: ''
       3:
-          name: "Progress in Kaunas center"
-          location: "Kaunas, Lithuania"
-          builder: "@simast12"
-          coordinates: "4602628 29 -5359234"
+        name: Progress in Kaunas center
+        location: Kaunas, Lithuania
+        builder: '@simast12'
+        coordinates: 4602628 29 -5359234
     10:
       1:
-          name: "Tyska kyrka"
-          location: "Stockholm, Sweden"
-          builder: "@smitnarval"
-          coordinates: "4328429 9 -6005839"
+        name: Tyska kyrka
+        location: Stockholm, Sweden
+        builder: '@smitnarval'
+        coordinates: 4328429 9 -6005839
       2:
-          name: "A brand new-looking Zalgriris arena"
-          location: "Kaunas, Lithuania"
-          builder: "@simast12"
-          coordinates: "4603900 26 -5357527"
+        name: A brand new-looking Zalgriris arena
+        location: Kaunas, Lithuania
+        builder: '@simast12'
+        coordinates: 4603900 26 -5357527
       3:
-          name: "1/3 km of Raudondvaris road"
-          location: "Kaunas, Lithuania"
-          builder: "@simast12"
-          coordinates: "4598281 28 -5362501"
+        name: 1/3 km of Raudondvaris road
+        location: Kaunas, Lithuania
+        builder: '@simast12'
+        coordinates: 4598281 28 -5362501
     11:
       1:
-          name: "Jelgava Gymnasium"
-          location: "Jelgava, Latvia"
-          builder: "@kurkkujouni87"
-          coordinates: "4632145 5 -5576518"
+        name: Jelgava Gymnasium
+        location: Jelgava, Latvia
+        builder: '@kurkkujouni87'
+        coordinates: 4632145 5 -5576518
       2:
-          name: "Several homes and a few small commercial buildings"
-          location: "Kaunas, Lithuania"
-          builder: "@simast12"
-          coordinates: ""
+        name: Several homes and a few small commercial buildings
+        location: Kaunas, Lithuania
+        builder: '@simast12'
+        coordinates: ''
       3:
-          name: "Danish National Route 38 Rønne-Aakirkeby"
-          location: "Rønne/Aakirkeby, Denmark"
-          builder: "@riseofnationsfan2137"
-          coordinates: "3964645 43 -5520622"
+        name: Danish National Route 38 Rønne-Aakirkeby
+        location: Rønne/Aakirkeby, Denmark
+        builder: '@riseofnationsfan2137'
+        coordinates: 3964645 43 -5520622
     12:
       1:
-          name: "Vingis Park Amphitheatre"
-          location: "Vilnius, Lithuania"
-          builder: "@epicdanny1028"
-          coordinates: "4689800 34 -5316143"
+        name: Vingis Park Amphitheatre
+        location: Vilnius, Lithuania
+        builder: '@epicdanny1028'
+        coordinates: ''
       2:
-          name: "Kumu Art Museum"
-          location: "Tallinn, Estonia"
-          builder: "@treokas"
-          coordinates: "4766201 12 -5913533"
+        name: Kumu Art Museum
+        location: Tallinn, Estonia
+        builder: '@treokas'
+        coordinates: ''
       3:
-          name: "Tycho Brahe Planetarium"
-          location: "Copenhagen, Denmark"
-          builder: "@bohr1um"
-          coordinates: "3825543 5 -5632973"
+        name: Tycho Brahe Planetarium
+        location: Copenhagen, Denmark
+        builder: '@bohr1um'
+        coordinates: ''
   2026:
     1:
       1:
@@ -417,13 +417,13 @@ botm:
         name: "Mannerheim Museum"
         location: "Helsinki, Finland"
         builder: "@kurkkujouni87"
-        coordinates: ""
+        coordinates: "4806845 19 -6002370"
     3:
       1:
         name: "Church of St. Constantine and St. Michael"
         location: "Vilnius, Lithuania"
         builder: "@kurkkujouni87"
-        coordinates: ""
+        coordinates: "4694352 139 -5315505"
       2:
         name: "A block"
         location: "Holstebro, Denmark"
@@ -439,7 +439,7 @@ botm:
         name: "Roskilde Cathedral"
         location: "Roskilde, Denmark"
         builder: "@cansu3131 and help from @swikkey"
-        coordinates: ""
+        coordinates: "3792081 39 -5640163"
       2:
         name: "Korso Church"
         location: "Vantaa, Finland"
@@ -475,7 +475,7 @@ botm:
       2:
         name: "2.5km stretch of the A1 highway near Klaipeda"
         location: "Lithuania"
-        builder: "@simast12 and @Ryż"
+        builder: "@simast12 and @riz_narodov"
         coordinates: ""
       3:
         name: "Geographical center of Europe"
@@ -487,7 +487,7 @@ botm:
         name: "Kaunas Priest Seminary"
         location: "Kaunas, Lithuania"
         builder: "@zinko2066"
-        coordinates: ""
+        coordinates: "4601823 29 -5358864"
       2:
         name: "McBride Soap Factory"
         location: "Holstebro, Denmark"
@@ -512,5 +512,5 @@ botm:
       3:
         name: "Complex of 3 stores and 1 restaurant"
         location: "Strenči, Latvia"
-        builder: "@✦ 𝖈𝖗𝖞𝖕𝖙𝖎𝖈𝕽𝖊𝖓 ✦"
+        builder: "@crypticren"
         coordinates: ""
